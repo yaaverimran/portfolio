@@ -50,7 +50,7 @@
 			image: gameTracker,
 			description: "Built to read the replay files generated from the popular game Fortnite. This program parses the data from the generated files post-match and relays everything on the Electron front end.\n\nWhat initially started out as a fun idea running through a terminal in 2018 for one of the video games I played eventually turned into a project that I was able to scale up into multi-functional desktop application. At the time of this post the project is currently in its 3rd revision and available for free to others who play as well.\nAt the peak of my activity with this project I had connected with an online entertainer who currently has over 6 million followers and made it a part of his daily routine to use my program. This allowed for me to practice a developer-consumer feedback cycle which was a great learning experience that contributed to the current state and functionality of this open-source program.",
 			languages: "Vue, C#, Electron, Python, AHK",
-			link: "https://github.com/yaaver2468/Game-Tracker"
+			link: "https://github.com/yaaverimran/Game-Tracker"
 		},
 		{
 			title: "Discord Bot",
@@ -72,7 +72,7 @@
 			image: streamDeck,
 			description: "Stark is an online entertainer who was looking for a program that would simplify all the programs he has to manage for his entertainment system. With over 7-12 different applications running simultaneously that he would have to navigate through on a daily basis.\n\nAt the time Stark was considering getting the Elgato stream deck which would make quick work of many of the redundant actions he had to take. However, this professional solution did not have certain custom features that he wanted. He asked me to create a software solution that could replicate the functionality of the physical hardware he was considering. The software solution was to be created in such a way that he could customize it themselves in the future with his knowledge of AHK. Lightweight, simple to use, and with practically an infinite number of assignable buttons, this simple program became his daily driver to manage all his tasks from one GUI interface.",
 			languages: "AHK",
-			link: "https://github.com/yaaver2468/Stream-Deck"
+			link: "https://github.com/yaaverimran/Stream-Deck"
 		},
 		{
 			title: "Shopify Site Customization",

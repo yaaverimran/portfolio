@@ -16,7 +16,7 @@
 
 <footer>
 	<div class="social-icons">
-		<a href="https://github.com/yaaver2468" title="GitHub" target="_blank">
+		<a href="https://github.com/yaaverimran" title="GitHub" target="_blank">
 			<img src={github} alt="Github Icon" />
 		</a>
 
